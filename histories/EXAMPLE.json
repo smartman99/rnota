@@ -1,0 +1,16 @@
+{
+  "v1": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://your-bundle-server.example.com/bundles/ios/production/1.0.0/v1.zip",
+    "packageHash": "fb1c8d4a7e2b3f60c9a1e3d5b7c9e1f3a5b7c9d1e3f5a7b9c1d3e5f7a9b1c3d5",
+    "rollout": 100
+  },
+  "v2": {
+    "enabled": true,
+    "mandatory": true,
+    "downloadUrl": "https://your-bundle-server.example.com/bundles/ios/production/1.0.0/v2.zip",
+    "packageHash": "ac2d9e5b8f3a1c47d6b8a2c4e6f8a1b3c5d7e9f1a3b5c7d9e1f3a5b7c9d1e3f5",
+    "rollout": 50
+  }
+}
