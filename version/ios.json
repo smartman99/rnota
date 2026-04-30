@@ -1,0 +1,10 @@
+{
+  "native": {
+    "minSupported": "1.0.0",
+    "latest": "1.0.0",
+    "storeUrl": "itms-apps://itunes.apple.com/app/idXXXXXXX",
+    "forceUpdateMessage": "보안 패치가 포함된 필수 업데이트입니다.",
+    "softUpdateMessage": "새 기능이 추가된 업데이트가 있습니다."
+  },
+  "killSwitch": false
+}
