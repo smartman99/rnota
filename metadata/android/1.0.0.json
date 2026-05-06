@@ -1,0 +1,12 @@
+{
+  "latestBundleVersion": 1,
+  "packageHash": "403896e0d3f2bf6ad1d8d3c1145dcd02436d6c3e4a9e59c725a5c009cb73b361",
+  "mandatory": false,
+  "description": "Scenario A baseline (v1)",
+  "updatedAt": "2026-05-06T14:09:17.304Z",
+  "full": {
+    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v1/android-full.zip",
+    "size": 7917207
+  },
+  "diffs": []
+}
