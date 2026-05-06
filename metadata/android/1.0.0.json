@@ -1,12 +1,19 @@
 {
-  "latestBundleVersion": 1,
-  "packageHash": "403896e0d3f2bf6ad1d8d3c1145dcd02436d6c3e4a9e59c725a5c009cb73b361",
+  "latestBundleVersion": 2,
+  "packageHash": "029bee850e3f20e5d83842aefd184af04a3642b926f23283f5a39c520a0ba313",
   "mandatory": false,
-  "description": "Scenario A baseline (v1)",
-  "updatedAt": "2026-05-06T14:09:17.304Z",
+  "description": "Scenario B (diff)",
+  "updatedAt": "2026-05-06T14:21:20.781Z",
   "full": {
-    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v1/android-full.zip",
-    "size": 7917207
+    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v2/android-full.zip",
+    "size": 7917277
   },
-  "diffs": []
+  "diffs": [
+    {
+      "fromHash": "403896e0d3f2bf6ad1d8d3c1145dcd02436d6c3e4a9e59c725a5c009cb73b361",
+      "fromVersion": 1,
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v2/android-diff-403896e0d3f2bf6ad1d8d3c1145dcd02436d6c3e4a9e59c725a5c009cb73b361.zip",
+      "size": 2662367
+    }
+  ]
 }
