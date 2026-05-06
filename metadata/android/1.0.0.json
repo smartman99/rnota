@@ -1,31 +1,31 @@
 {
   "latestBundleVersion": 5,
-  "packageHash": "be2139be8697b4dead6fec65b0f950c48e76c969abb0509d0483de03e5670c3b",
+  "packageHash": "d8d3e350233304bea82009d79370db7d84ee1bb37659a68acda5996d70e7f52e",
   "mandatory": false,
-  "description": "Scenario D-2 (fallback)",
-  "updatedAt": "2026-05-06T14:55:42.520Z",
+  "description": "Scenario D-3 (fallback)",
+  "updatedAt": "2026-05-06T15:01:00.181Z",
   "full": {
     "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-full.zip",
-    "size": 7917536
+    "size": 7917532
   },
   "diffs": [
+    {
+      "fromHash": "be2139be8697b4dead6fec65b0f950c48e76c969abb0509d0483de03e5670c3b",
+      "fromVersion": 5,
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-diff-be2139be8697b4dead6fec65b0f950c48e76c969abb0509d0483de03e5670c3b.zip",
+      "size": 2662622
+    },
     {
       "fromHash": "2451b002a8782ab171752438996ffddca3e761bb7c7bc153ae25be356f5fe754",
       "fromVersion": 5,
       "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-diff-2451b002a8782ab171752438996ffddca3e761bb7c7bc153ae25be356f5fe754.zip",
-      "size": 2662626
+      "size": 2662622
     },
     {
       "fromHash": "27b7fa1804bd46a5622ca2184cdae7fdffd572c318167c93e74568a311722ff9",
       "fromVersion": 3,
       "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-diff-27b7fa1804bd46a5622ca2184cdae7fdffd572c318167c93e74568a311722ff9.zip",
-      "size": 2662626
-    },
-    {
-      "fromHash": "029bee850e3f20e5d83842aefd184af04a3642b926f23283f5a39c520a0ba313",
-      "fromVersion": 2,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-diff-029bee850e3f20e5d83842aefd184af04a3642b926f23283f5a39c520a0ba313.zip",
-      "size": 2662626
+      "size": 2662622
     }
   ]
 }
