@@ -1,31 +1,31 @@
 {
-  "latestBundleVersion": 12,
-  "packageHash": "2b0279c42fe4ad5a5e67f5b8c596721011f9ba4314a3d6a8af47defab04bb192",
+  "latestBundleVersion": 13,
+  "packageHash": "9e69ec930ad33e0bc8be51c67567d90b4623c128929ad2bec3abc715521bb98d",
   "mandatory": false,
-  "description": "Scenario D retry — boot-crash bundle 12",
-  "updatedAt": "2026-05-06T16:35:22.846Z",
+  "description": "Scenario D retry — boot-crash bundle 13",
+  "updatedAt": "2026-05-06T16:39:36.360Z",
   "full": {
-    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v12/android-full.zip",
-    "size": 7917552
+    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v13/android-full.zip",
+    "size": 7916858
   },
   "diffs": [
     {
+      "fromHash": "2b0279c42fe4ad5a5e67f5b8c596721011f9ba4314a3d6a8af47defab04bb192",
+      "fromVersion": 12,
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v13/android-diff-2b0279c42fe4ad5a5e67f5b8c596721011f9ba4314a3d6a8af47defab04bb192.zip",
+      "size": 2661948
+    },
+    {
       "fromHash": "f15eddfc639d8b5ee689664f5b0623c24c2e3ac5405deae6f7caa4a58341f6e0",
       "fromVersion": 11,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v12/android-diff-f15eddfc639d8b5ee689664f5b0623c24c2e3ac5405deae6f7caa4a58341f6e0.zip",
-      "size": 2662642
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v13/android-diff-f15eddfc639d8b5ee689664f5b0623c24c2e3ac5405deae6f7caa4a58341f6e0.zip",
+      "size": 2661948
     },
     {
       "fromHash": "6b0dd236640a8759c9bc872beaaa8adb309a03cf37d78a94ee88ea1147ca9103",
       "fromVersion": 10,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v12/android-diff-6b0dd236640a8759c9bc872beaaa8adb309a03cf37d78a94ee88ea1147ca9103.zip",
-      "size": 2662642
-    },
-    {
-      "fromHash": "f4a100ef1808070d9a297e7d49da641894bcdf3f9b0605ba3f6fad76e5c37964",
-      "fromVersion": 9,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v12/android-diff-f4a100ef1808070d9a297e7d49da641894bcdf3f9b0605ba3f6fad76e5c37964.zip",
-      "size": 2662642
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v13/android-diff-6b0dd236640a8759c9bc872beaaa8adb309a03cf37d78a94ee88ea1147ca9103.zip",
+      "size": 2661948
     }
   ]
 }
