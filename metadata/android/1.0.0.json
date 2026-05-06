@@ -1,31 +1,31 @@
 {
-  "latestBundleVersion": 7,
-  "packageHash": "b6e73e2d8d652c76db245e954a3044f705ec7e8178fe5274bab609d50ba9bc99",
+  "latestBundleVersion": 8,
+  "packageHash": "09e80dd2f4e91bf0ae3b774240f2adbba39cfa52a9548d270c31fe7c6df08659",
   "mandatory": false,
-  "description": "Scenario D — boot-crash bundle",
-  "updatedAt": "2026-05-06T15:17:11.865Z",
+  "description": "v8 clean — recovery + fsync fix",
+  "updatedAt": "2026-05-06T16:01:55.719Z",
   "full": {
-    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v7/android-full.zip",
-    "size": 7916851
+    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v8/android-full.zip",
+    "size": 7917547
   },
   "diffs": [
     {
+      "fromHash": "b6e73e2d8d652c76db245e954a3044f705ec7e8178fe5274bab609d50ba9bc99",
+      "fromVersion": 7,
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v8/android-diff-b6e73e2d8d652c76db245e954a3044f705ec7e8178fe5274bab609d50ba9bc99.zip",
+      "size": 2662637
+    },
+    {
       "fromHash": "dba42f55e574e83f2643023fb4524393569318bd654da879e2f81cc5ef0c21d0",
       "fromVersion": 6,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v7/android-diff-dba42f55e574e83f2643023fb4524393569318bd654da879e2f81cc5ef0c21d0.zip",
-      "size": 2661941
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v8/android-diff-dba42f55e574e83f2643023fb4524393569318bd654da879e2f81cc5ef0c21d0.zip",
+      "size": 2662637
     },
     {
       "fromHash": "d8d3e350233304bea82009d79370db7d84ee1bb37659a68acda5996d70e7f52e",
       "fromVersion": 5,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v7/android-diff-d8d3e350233304bea82009d79370db7d84ee1bb37659a68acda5996d70e7f52e.zip",
-      "size": 2661941
-    },
-    {
-      "fromHash": "be2139be8697b4dead6fec65b0f950c48e76c969abb0509d0483de03e5670c3b",
-      "fromVersion": 5,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v7/android-diff-be2139be8697b4dead6fec65b0f950c48e76c969abb0509d0483de03e5670c3b.zip",
-      "size": 2661941
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v8/android-diff-d8d3e350233304bea82009d79370db7d84ee1bb37659a68acda5996d70e7f52e.zip",
+      "size": 2662637
     }
   ]
 }
