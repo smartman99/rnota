@@ -1,31 +1,31 @@
 {
-  "latestBundleVersion": 14,
-  "packageHash": "c97f29922d310714063ddcf63a7f6bf098cd932f48e43de85c2d728aaf9ba25f",
+  "latestBundleVersion": 15,
+  "packageHash": "cb50c41e9b4606d79a469b88ea07ea9280667da8ae61559e12c45164e84a0414",
   "mandatory": false,
-  "description": "v14 clean — manual rollback test target",
-  "updatedAt": "2026-05-06T16:50:18.214Z",
+  "description": "v15 clean — manual rollback test target",
+  "updatedAt": "2026-05-06T21:54:49.793Z",
   "full": {
-    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v14/android-full.zip",
-    "size": 7917551
+    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v15/android-full.zip",
+    "size": 7917737
   },
   "diffs": [
     {
+      "fromHash": "c97f29922d310714063ddcf63a7f6bf098cd932f48e43de85c2d728aaf9ba25f",
+      "fromVersion": 14,
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v15/android-diff-c97f29922d310714063ddcf63a7f6bf098cd932f48e43de85c2d728aaf9ba25f.zip",
+      "size": 2662827
+    },
+    {
       "fromHash": "9e69ec930ad33e0bc8be51c67567d90b4623c128929ad2bec3abc715521bb98d",
       "fromVersion": 13,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v14/android-diff-9e69ec930ad33e0bc8be51c67567d90b4623c128929ad2bec3abc715521bb98d.zip",
-      "size": 2662641
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v15/android-diff-9e69ec930ad33e0bc8be51c67567d90b4623c128929ad2bec3abc715521bb98d.zip",
+      "size": 2662827
     },
     {
       "fromHash": "2b0279c42fe4ad5a5e67f5b8c596721011f9ba4314a3d6a8af47defab04bb192",
       "fromVersion": 12,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v14/android-diff-2b0279c42fe4ad5a5e67f5b8c596721011f9ba4314a3d6a8af47defab04bb192.zip",
-      "size": 2662641
-    },
-    {
-      "fromHash": "f15eddfc639d8b5ee689664f5b0623c24c2e3ac5405deae6f7caa4a58341f6e0",
-      "fromVersion": 11,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v14/android-diff-f15eddfc639d8b5ee689664f5b0623c24c2e3ac5405deae6f7caa4a58341f6e0.zip",
-      "size": 2662641
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v15/android-diff-2b0279c42fe4ad5a5e67f5b8c596721011f9ba4314a3d6a8af47defab04bb192.zip",
+      "size": 2662827
     }
   ]
 }
