@@ -1,31 +1,31 @@
 {
-  "latestBundleVersion": 5,
-  "packageHash": "d8d3e350233304bea82009d79370db7d84ee1bb37659a68acda5996d70e7f52e",
+  "latestBundleVersion": 6,
+  "packageHash": "dba42f55e574e83f2643023fb4524393569318bd654da879e2f81cc5ef0c21d0",
   "mandatory": false,
-  "description": "Scenario D-3 (fallback)",
-  "updatedAt": "2026-05-06T15:01:00.181Z",
+  "description": "Scenario C - true fallback test",
+  "updatedAt": "2026-05-06T15:10:56.126Z",
   "full": {
-    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-full.zip",
-    "size": 7917532
+    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v6/android-full.zip",
+    "size": 7917529
   },
   "diffs": [
     {
+      "fromHash": "d8d3e350233304bea82009d79370db7d84ee1bb37659a68acda5996d70e7f52e",
+      "fromVersion": 5,
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v6/android-diff-d8d3e350233304bea82009d79370db7d84ee1bb37659a68acda5996d70e7f52e.zip",
+      "size": 2662619
+    },
+    {
       "fromHash": "be2139be8697b4dead6fec65b0f950c48e76c969abb0509d0483de03e5670c3b",
       "fromVersion": 5,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-diff-be2139be8697b4dead6fec65b0f950c48e76c969abb0509d0483de03e5670c3b.zip",
-      "size": 2662622
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v6/android-diff-be2139be8697b4dead6fec65b0f950c48e76c969abb0509d0483de03e5670c3b.zip",
+      "size": 2662619
     },
     {
       "fromHash": "2451b002a8782ab171752438996ffddca3e761bb7c7bc153ae25be356f5fe754",
       "fromVersion": 5,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-diff-2451b002a8782ab171752438996ffddca3e761bb7c7bc153ae25be356f5fe754.zip",
-      "size": 2662622
-    },
-    {
-      "fromHash": "27b7fa1804bd46a5622ca2184cdae7fdffd572c318167c93e74568a311722ff9",
-      "fromVersion": 3,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v5/android-diff-27b7fa1804bd46a5622ca2184cdae7fdffd572c318167c93e74568a311722ff9.zip",
-      "size": 2662622
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v6/android-diff-2451b002a8782ab171752438996ffddca3e761bb7c7bc153ae25be356f5fe754.zip",
+      "size": 2662619
     }
   ]
 }
