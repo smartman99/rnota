@@ -1,30 +1,24 @@
 {
-  "latestBundleVersion": 20,
+  "latestBundleVersion": 21,
   "packageHash": "1a87fa42e291955efa594b54c7d7c8466e3edb45753db26f69f8fb91a3e755b9",
-  "mandatory": false,
+  "mandatory": true,
   "description": "v20 clean — manual rollback test target",
-  "updatedAt": "2026-05-07T09:21:41.664Z",
+  "updatedAt": "2026-05-07T09:37:14.328Z",
   "full": {
-    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v20/android-full.zip",
+    "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v21/android-full.zip",
     "size": 7919208
   },
   "diffs": [
     {
       "fromHash": "95f63c785198a8aea81e1f9a8be54c9892ad732a7b81b774e4798eab0ce0d8b3",
       "fromVersion": 16,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v20/android-diff-95f63c785198a8aea81e1f9a8be54c9892ad732a7b81b774e4798eab0ce0d8b3.zip",
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v21/android-diff-95f63c785198a8aea81e1f9a8be54c9892ad732a7b81b774e4798eab0ce0d8b3.zip",
       "size": 2664298
     },
     {
       "fromHash": "cb50c41e9b4606d79a469b88ea07ea9280667da8ae61559e12c45164e84a0414",
       "fromVersion": 15,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v20/android-diff-cb50c41e9b4606d79a469b88ea07ea9280667da8ae61559e12c45164e84a0414.zip",
-      "size": 2664298
-    },
-    {
-      "fromHash": "c97f29922d310714063ddcf63a7f6bf098cd932f48e43de85c2d728aaf9ba25f",
-      "fromVersion": 14,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v20/android-diff-c97f29922d310714063ddcf63a7f6bf098cd932f48e43de85c2d728aaf9ba25f.zip",
+      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v21/android-diff-cb50c41e9b4606d79a469b88ea07ea9280667da8ae61559e12c45164e84a0414.zip",
       "size": 2664298
     }
   ]
