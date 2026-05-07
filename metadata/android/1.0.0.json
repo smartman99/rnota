@@ -3,7 +3,7 @@
   "packageHash": "003ab55431ea1f80cc9b5b07a656a552939c765eac4a67641cbd76e19059efa6",
   "mandatory": true,
   "description": "signing test target",
-  "updatedAt": "2026-05-07T21:51:48.123Z",
+  "updatedAt": "2026-05-07T21:53:42.093Z",
   "full": {
     "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v22/android-full.zip",
     "size": 7932010
@@ -20,12 +20,10 @@
       "fromVersion": 16,
       "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v22/android-diff-95f63c785198a8aea81e1f9a8be54c9892ad732a7b81b774e4798eab0ce0d8b3.zip",
       "size": 5861544
-    },
-    {
-      "fromHash": "cb50c41e9b4606d79a469b88ea07ea9280667da8ae61559e12c45164e84a0414",
-      "fromVersion": 15,
-      "url": "https://github.com/smartman99/rnota/releases/download/ota-android-v22/android-diff-cb50c41e9b4606d79a469b88ea07ea9280667da8ae61559e12c45164e84a0414.zip",
-      "size": 5861544
     }
-  ]
+  ],
+  "signature": {
+    "alg": "Ed25519",
+    "value": "uFRrYkImq3oStt8lk1VsyDu2MNSrRlcjGzU/kBXB3sWOi7JrxZv/0qR2I7d7bAe0KBIuHnmVijHA4nTnc4vtAQ=="
+  }
 }
