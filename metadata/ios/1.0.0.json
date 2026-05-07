@@ -1,11 +1,11 @@
 {
-  "latestBundleVersion": 1,
+  "latestBundleVersion": 2,
   "packageHash": "1c32d4fcd430cd96ce4b03707b2ad89de9394c2ebf99eef2c7cec5a9e3dd85ec",
   "mandatory": false,
-  "description": "v1 clean — manual rollback test target",
-  "updatedAt": "2026-05-07T05:22:43.958Z",
+  "description": "v2 clean — manual rollback test target",
+  "updatedAt": "2026-05-07T05:24:09.924Z",
   "full": {
-    "url": "https://github.com/smartman99/rnota/releases/download/ota-ios-v1/ios-full.zip",
+    "url": "https://github.com/smartman99/rnota/releases/download/ota-ios-v2/ios-full.zip",
     "size": 4701351
   },
   "diffs": []
