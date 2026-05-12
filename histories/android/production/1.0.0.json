@@ -4,56 +4,88 @@
     "mandatory": false,
     "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/2abd10b4961adecb2986a7e666823d3ad36a2d6cf6240c48dd6227c23fc8f352",
     "packageHash": "2abd10b4961adecb2986a7e666823d3ad36a2d6cf6240c48dd6227c23fc8f352",
-    "rollout": 100
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "KfsllCPLnjWJ0dPnfAzDN1Z7WVg/TtOrcDOyA6L7o0Bkr/BgTQWl6OOPYFGqYbt739wPmPpP9zmEDBkmoiQ+Aw=="
+    }
   },
   "1.0.15": {
     "enabled": true,
     "mandatory": false,
     "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/d0fda62204253aa65dbb51d705e5206fdfa0d719908d476aae6e6d80be550291",
     "packageHash": "d0fda62204253aa65dbb51d705e5206fdfa0d719908d476aae6e6d80be550291",
-    "rollout": 100
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "xVADoHR+RBIsYFu1L1Ti+aMksySoWWsePfF/4EzFHVYB6M/E35gmAPMvr5Fnf9TA6qsyH9MXocM6I4LWpCPQAg=="
+    }
   },
   "1.0.16": {
     "enabled": true,
     "mandatory": false,
     "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/ad3ff82b49b4559a82300282ca50809f27686d66538b9ba6aa83ff73665d0d97",
     "packageHash": "ad3ff82b49b4559a82300282ca50809f27686d66538b9ba6aa83ff73665d0d97",
-    "rollout": 100
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "IZ1T5OWSJuxR8UwmPQAPn8ufoHr+uxpWPBDNVRe1hyGkKvxWGCAEEaIedazpLllLzbDMGftgK7HD+X7jB+XwAw=="
+    }
   },
   "1.0.17": {
     "enabled": true,
     "mandatory": false,
     "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/20909a99813d5eb1ed1057989a5b8168a55e5110f50bad431f84ade9a889013a",
     "packageHash": "20909a99813d5eb1ed1057989a5b8168a55e5110f50bad431f84ade9a889013a",
-    "rollout": 100
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "wtm7UNeLvuPvqMV8PHhIK6Lx4zeJAMRfmDabpnMn+VyY/aKs4pogVjTAvwhWPF+GfIh0AbGScgfCQ/rELUZ0AQ=="
+    }
   },
   "1.0.18": {
     "enabled": true,
     "mandatory": true,
     "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/d8b0ce4c3e03f921430d61c889bf0066cc106eda20fff0228779b3b9bfeac066",
     "packageHash": "d8b0ce4c3e03f921430d61c889bf0066cc106eda20fff0228779b3b9bfeac066",
-    "rollout": 100
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "iCJEshirNx5/HKFdchPXs2O31gkmCXfMqUodm4Zz15jQBU350JbfSMyY0pRBDmH9QVkM8NpkihjwCrEAUJuzAw=="
+    }
   },
   "1.0.19": {
     "enabled": true,
     "mandatory": false,
     "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/f63b6fb82cee70ff49c1457081447e96a0e39db27fd5dd1d5f01a71203fb767b",
     "packageHash": "f63b6fb82cee70ff49c1457081447e96a0e39db27fd5dd1d5f01a71203fb767b",
-    "rollout": 100
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "Ek4y9CLSPfzMkzMM2t8hKeJhxr0J+wXDo1YqKEiCsLVJQyxRYdFSrOOGAif971qAOTZ+WD/W9yHX+Q+Uqn24BQ=="
+    }
   },
   "1.0.20": {
     "enabled": false,
     "mandatory": false,
     "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/f0e85cbfde8575422dcd00818f7e25b2c08fdaa0c7a964fc0dd06b81846b65b3",
     "packageHash": "f0e85cbfde8575422dcd00818f7e25b2c08fdaa0c7a964fc0dd06b81846b65b3",
-    "rollout": 100
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "doyD5XSyLcwGRoILvKcQwhCPOFjwzNT53kNrQPefDEh6gKBNDUw30jNU1C41+LJc2OrlFJWbUO8eMPUwynxSAw=="
+    }
   },
   "1.0.21": {
     "enabled": true,
     "mandatory": false,
     "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/f0e85cbfde8575422dcd00818f7e25b2c08fdaa0c7a964fc0dd06b81846b65b3",
     "packageHash": "f0e85cbfde8575422dcd00818f7e25b2c08fdaa0c7a964fc0dd06b81846b65b3",
-    "rollout": 100
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "rKN30+C+PvGEIrQQ2JUeKus4GsX8o8aaBheg77DTWGpqCvfzN6fiNK5U3HGVPpo4Mopq2gvr5T0kpwLXTim+AQ=="
+    }
   },
   "1.0.22": {
     "enabled": true,
@@ -72,6 +104,10 @@
         "size": 6411924,
         "hash": "9a2f4a9dab0b499311fa213ac038eb27cf808f07fb5034802501c04f38325ded"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "65ZQ8nCIZohgNFf8pyX8SBEOyd3z7pWigEFXItzgstsTSIYF2eXK7/W+eJBnSbsqquhYISCd6JzGYQnrVqWFBw=="
     }
   },
   "1.0.23": {
@@ -91,6 +127,10 @@
         "size": 6411915,
         "hash": "281157e85dcabe24f43b37806552ca546c554e74b84aa34fcc0505d25dc890b7"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "8kSFhS1Htd3RsOi2EJGjLQMSM1PiAwcdRG13W1deXgn2RL/4zHmdPA+ZnNsl5nzKc6xW46pnLWGfqEDfHZblAg=="
     }
   },
   "1.0.24": {
@@ -115,6 +155,10 @@
         "size": 6411899,
         "hash": "ba5872b80b5937cfb15b0c95aad2e48c58d0206477792cfa67d476a27c4691db"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "9mIVYCcwaPsPXlxpzQiwmqLtqNsJPSJueRxIyTWimvyTc28hXjE3FrmxKf7K8Qs0/Q5FFbuDN1IamaFt5o+YBA=="
     }
   },
   "1.0.25": {
@@ -139,6 +183,10 @@
         "size": 3216513,
         "hash": "53cbd25747c4dd444a94d91e6cfee8a5304473baf3bf0255820d72e5f5efe24b"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "70zhx7dnUSs7pxZkY7p3/O2RN3TcQsLsK/wvk4oK9WuWDlw/ChGo7sZ7RL1d3EtlqjHTtEtBhlDgTPVz/ZUMBg=="
     }
   },
   "1.0.26": {
@@ -163,6 +211,10 @@
         "size": 3216495,
         "hash": "8fc154ef3d66a8ec1fff1249e296f04eccf785e7b6ac25607bc555b16df8bae4"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "g8fnvUwQ/kv6UBooV9Ih8UWCOrFvs163jqGlFsS8FaYiCUR21BIH80IoiK4aC+OnTbWLoWA4L24Itujll6tOAA=="
     }
   },
   "1.0.27": {
@@ -182,6 +234,10 @@
         "size": 3216486,
         "hash": "4d2257fcf9ba168feec58f29a9013c301285960855e33df88d165eec1e454165"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "WThw1yZBeDEQ4LkEFFp7v/7uYbBQIOuhSEDWruiKT/2Kv8tLL6by57UO8ld+K7x3Aedi4TEgexr/5IYXg4IgCA=="
     }
   }
 }
