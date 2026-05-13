@@ -663,6 +663,10 @@
         "hash": "3bf4cb0d08093cd5fc441216a551ada907b61021c6b31d6eb9fb44ca006655c2",
         "algorithm": "hdiffpatch-v1"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "ElF6KnGCy2ICvQUShpp16GGdiQeNijQiZ+/ukeFXyr1Jw/axfQ+2UctSdUcP0rrUyXyyw5jYgygD90vklZwdAg=="
     }
   }
 }
