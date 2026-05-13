@@ -172,6 +172,10 @@
         "size": 3179900,
         "hash": "a10e63f07dda819f4ad592241f1decd8350c39bb694b421ca216f436c0b3d05d"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "+mva+dNHgKWoAXUkVpfpeGL8ZkU/Y40d4qGtORrYlIdAvg7PUefuUBRhSaMpLCjvKhVP6QJ/mVYD0eQeCpjRBA=="
     }
   }
 }
