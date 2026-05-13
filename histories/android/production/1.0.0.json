@@ -525,6 +525,10 @@
         "hash": "0db50eba9e524fe635de83919efa6e6bee9dca7198513d63b348ba7ab3c221f1",
         "algorithm": "hdiffpatch-v1"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "X1SNbw4IpCS3mppVVDFPmPkWPGuh3xsY5B7YdilXNOeUqOXpfmP6Xg1wICd4lbZz9MTXKIArIHdoYVBedVWqDQ=="
     }
   }
 }
