@@ -1,1 +1,177 @@
-{"1.0.15":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/7b7609d9ad2e1b8e83866e9c942cc815ed32928dd2b912f138b3619b8b952814","packageHash":"7b7609d9ad2e1b8e83866e9c942cc815ed32928dd2b912f138b3619b8b952814","rollout":100,"signature":{"alg":"Ed25519","value":"5SBGOqGrAdhCZc9ak3GFlhrC2J5PyOnzNwj975HvUbwZ248kVQ+tn6S0crfZB+CDRQ2+LyWIhxkqnwsotxNIDg=="}},"1.0.16":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/8904f25daa65f41ccffb03ed8fcd1f9617eb5ecf432aaf83755d5e61f25b7067","packageHash":"8904f25daa65f41ccffb03ed8fcd1f9617eb5ecf432aaf83755d5e61f25b7067","rollout":100,"signature":{"alg":"Ed25519","value":"OtMV08ARIi9wTQlettBA6BYgJH0g7opJfeyDSyXnG8d1GS/iUC5iXdvRHN8ZOqMwje9HTHRvYJr2f1cmG0bECg=="}},"1.0.18":{"enabled":true,"mandatory":true,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/a29722dd490977390806bd7b09a82422e3c68e9ac7a405ed554023a830060694","packageHash":"a29722dd490977390806bd7b09a82422e3c68e9ac7a405ed554023a830060694","rollout":100,"signature":{"alg":"Ed25519","value":"mIJLzK7PDHZvfc58S62FLNbI0BoPTXigT2+f6/W5jK1uP1hUK4DqEgm2EcCt79gmnJrF1i+TwNUw0rQT76mNBg=="}},"1.0.19":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68","packageHash":"18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68","rollout":100,"signature":{"alg":"Ed25519","value":"pp9FA4DzyaTCSK176XGnecAAFQQzXSIaM96eKm8bjZKITOumR8dduZdo3NX+ydNqxzKes3vYRuwoBKPJ0QbUBw=="}},"1.0.20":{"enabled":true,"mandatory":true,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87","packageHash":"22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87","rollout":100,"diffPackageMap":{"18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/22805fa790fe-diff-from-18d894b9e52d.zip","size":3179832,"hash":"166c37c10a4a14ef8ed5b43507ca7b608516321f6f4eeb9ca587136b37a67fe5"},"a29722dd490977390806bd7b09a82422e3c68e9ac7a405ed554023a830060694":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/22805fa790fe-diff-from-a29722dd4909.zip","size":3179832,"hash":"166c37c10a4a14ef8ed5b43507ca7b608516321f6f4eeb9ca587136b37a67fe5"},"8904f25daa65f41ccffb03ed8fcd1f9617eb5ecf432aaf83755d5e61f25b7067":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/22805fa790fe-diff-from-8904f25daa65.zip","size":3179832,"hash":"166c37c10a4a14ef8ed5b43507ca7b608516321f6f4eeb9ca587136b37a67fe5"}},"signature":{"alg":"Ed25519","value":"N3OPoUflMMnqCLiV0O/0N/FmLFRi4q0lYNDKKJqIU9pr/QohmNnywpAOMOUHQhLMrkK0Hiao9CrZ2N0VGyQOCQ=="}},"1.0.28":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231","packageHash":"257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231","rollout":100,"diffPackageMap":{"22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/257869f18228-diff-from-22805fa790fe.zip","size":3183964,"hash":"0a7986bdfebc8a5972ba0e0ee10f26c1d6161773a2b9e0636c957d658729fde0"},"18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/257869f18228-diff-from-18d894b9e52d.zip","size":3183964,"hash":"0a7986bdfebc8a5972ba0e0ee10f26c1d6161773a2b9e0636c957d658729fde0"},"a29722dd490977390806bd7b09a82422e3c68e9ac7a405ed554023a830060694":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/257869f18228-diff-from-a29722dd4909.zip","size":3183964,"hash":"0a7986bdfebc8a5972ba0e0ee10f26c1d6161773a2b9e0636c957d658729fde0"}},"signature":{"alg":"Ed25519","value":"tSqmhgJ0JjOAjKeGlioor//u7GPJtDlKgqwcvYqwkhdZs4fVCtQqplCbVMFTjHE7Sj8iq/AWwGqzZJYQycJRAw=="}},"1.0.29":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44","packageHash":"32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44","rollout":100,"diffPackageMap":{"257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-257869f18228.zip","size":3179850,"hash":"6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"},"22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-22805fa790fe.zip","size":3179850,"hash":"6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"},"18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-18d894b9e52d.zip","size":3179850,"hash":"6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"}},"signature":{"alg":"Ed25519","value":"Lyh2C40eiPUgeLi8BHAq/vc6WaIceEVSLUuk4eN23+PMDtIOn+XAmjdGbFSzIRWLGAGzoqM3Y4Sj7l/gqhOuCQ=="}},"1.0.30":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44","packageHash":"32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44","rollout":100,"diffPackageMap":{"32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-32d83ede7c1a.zip","size":165,"hash":"58a2e2a334da993ed96e535c4e1d330ff0463a62063ecbe085afd3798b0f2a86"},"257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-257869f18228.zip","size":3179850,"hash":"6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"},"22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-22805fa790fe.zip","size":3179850,"hash":"6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"}},"signature":{"alg":"Ed25519","value":"2RKURoTFKF/7fWCMUGCN/v0+6haPh0G/DgJ79fRWRs7yxUPhk7sqLgguwN8I+GLmvZJNqgDIt6L2AcNuwJP/Bw=="}},"1.0.31":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/e22b22f3104556e1847c496aa74d91ece40499dfc7c39a01b4320466e613a865","packageHash":"e22b22f3104556e1847c496aa74d91ece40499dfc7c39a01b4320466e613a865","rollout":100}}
+{
+  "1.0.15": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/7b7609d9ad2e1b8e83866e9c942cc815ed32928dd2b912f138b3619b8b952814",
+    "packageHash": "7b7609d9ad2e1b8e83866e9c942cc815ed32928dd2b912f138b3619b8b952814",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "5SBGOqGrAdhCZc9ak3GFlhrC2J5PyOnzNwj975HvUbwZ248kVQ+tn6S0crfZB+CDRQ2+LyWIhxkqnwsotxNIDg=="
+    }
+  },
+  "1.0.16": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/8904f25daa65f41ccffb03ed8fcd1f9617eb5ecf432aaf83755d5e61f25b7067",
+    "packageHash": "8904f25daa65f41ccffb03ed8fcd1f9617eb5ecf432aaf83755d5e61f25b7067",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "OtMV08ARIi9wTQlettBA6BYgJH0g7opJfeyDSyXnG8d1GS/iUC5iXdvRHN8ZOqMwje9HTHRvYJr2f1cmG0bECg=="
+    }
+  },
+  "1.0.18": {
+    "enabled": true,
+    "mandatory": true,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/a29722dd490977390806bd7b09a82422e3c68e9ac7a405ed554023a830060694",
+    "packageHash": "a29722dd490977390806bd7b09a82422e3c68e9ac7a405ed554023a830060694",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "mIJLzK7PDHZvfc58S62FLNbI0BoPTXigT2+f6/W5jK1uP1hUK4DqEgm2EcCt79gmnJrF1i+TwNUw0rQT76mNBg=="
+    }
+  },
+  "1.0.19": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68",
+    "packageHash": "18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "pp9FA4DzyaTCSK176XGnecAAFQQzXSIaM96eKm8bjZKITOumR8dduZdo3NX+ydNqxzKes3vYRuwoBKPJ0QbUBw=="
+    }
+  },
+  "1.0.20": {
+    "enabled": true,
+    "mandatory": true,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87",
+    "packageHash": "22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87",
+    "rollout": 100,
+    "diffPackageMap": {
+      "18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/22805fa790fe-diff-from-18d894b9e52d.zip",
+        "size": 3179832,
+        "hash": "166c37c10a4a14ef8ed5b43507ca7b608516321f6f4eeb9ca587136b37a67fe5"
+      },
+      "a29722dd490977390806bd7b09a82422e3c68e9ac7a405ed554023a830060694": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/22805fa790fe-diff-from-a29722dd4909.zip",
+        "size": 3179832,
+        "hash": "166c37c10a4a14ef8ed5b43507ca7b608516321f6f4eeb9ca587136b37a67fe5"
+      },
+      "8904f25daa65f41ccffb03ed8fcd1f9617eb5ecf432aaf83755d5e61f25b7067": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/22805fa790fe-diff-from-8904f25daa65.zip",
+        "size": 3179832,
+        "hash": "166c37c10a4a14ef8ed5b43507ca7b608516321f6f4eeb9ca587136b37a67fe5"
+      }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "N3OPoUflMMnqCLiV0O/0N/FmLFRi4q0lYNDKKJqIU9pr/QohmNnywpAOMOUHQhLMrkK0Hiao9CrZ2N0VGyQOCQ=="
+    }
+  },
+  "1.0.28": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231",
+    "packageHash": "257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231",
+    "rollout": 100,
+    "diffPackageMap": {
+      "22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/257869f18228-diff-from-22805fa790fe.zip",
+        "size": 3183964,
+        "hash": "0a7986bdfebc8a5972ba0e0ee10f26c1d6161773a2b9e0636c957d658729fde0"
+      },
+      "18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/257869f18228-diff-from-18d894b9e52d.zip",
+        "size": 3183964,
+        "hash": "0a7986bdfebc8a5972ba0e0ee10f26c1d6161773a2b9e0636c957d658729fde0"
+      },
+      "a29722dd490977390806bd7b09a82422e3c68e9ac7a405ed554023a830060694": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/257869f18228-diff-from-a29722dd4909.zip",
+        "size": 3183964,
+        "hash": "0a7986bdfebc8a5972ba0e0ee10f26c1d6161773a2b9e0636c957d658729fde0"
+      }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "tSqmhgJ0JjOAjKeGlioor//u7GPJtDlKgqwcvYqwkhdZs4fVCtQqplCbVMFTjHE7Sj8iq/AWwGqzZJYQycJRAw=="
+    }
+  },
+  "1.0.29": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44",
+    "packageHash": "32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44",
+    "rollout": 100,
+    "diffPackageMap": {
+      "257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-257869f18228.zip",
+        "size": 3179850,
+        "hash": "6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"
+      },
+      "22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-22805fa790fe.zip",
+        "size": 3179850,
+        "hash": "6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"
+      },
+      "18d894b9e52d1532a42841483af54a3f6f27776b171fde094f5ee1ff61b3fb68": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-18d894b9e52d.zip",
+        "size": 3179850,
+        "hash": "6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"
+      }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "Lyh2C40eiPUgeLi8BHAq/vc6WaIceEVSLUuk4eN23+PMDtIOn+XAmjdGbFSzIRWLGAGzoqM3Y4Sj7l/gqhOuCQ=="
+    }
+  },
+  "1.0.30": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44",
+    "packageHash": "32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44",
+    "rollout": 100,
+    "diffPackageMap": {
+      "32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-32d83ede7c1a.zip",
+        "size": 165,
+        "hash": "58a2e2a334da993ed96e535c4e1d330ff0463a62063ecbe085afd3798b0f2a86"
+      },
+      "257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-257869f18228.zip",
+        "size": 3179850,
+        "hash": "6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"
+      },
+      "22805fa790feba0e92c2a3a40eec09c9586a8cccc8760521e87954fda5ce6e87": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/32d83ede7c1a-diff-from-22805fa790fe.zip",
+        "size": 3179850,
+        "hash": "6bedbaadc2ab7da74835ec2a87c5832b5c3290829c2cbeea9d457af9f2b572d6"
+      }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "2RKURoTFKF/7fWCMUGCN/v0+6haPh0G/DgJ79fRWRs7yxUPhk7sqLgguwN8I+GLmvZJNqgDIt6L2AcNuwJP/Bw=="
+    }
+  },
+  "1.0.31": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/e22b22f3104556e1847c496aa74d91ece40499dfc7c39a01b4320466e613a865",
+    "packageHash": "e22b22f3104556e1847c496aa74d91ece40499dfc7c39a01b4320466e613a865",
+    "rollout": 100,
+    "diffPackageMap": {
+      "32d83ede7c1a549779b67952f8c6c597f6731b06825d8534d4b25a6707fadf44": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/e22b22f31045-diff-from-32d83ede7c1a.zip",
+        "size": 3179900,
+        "hash": "a10e63f07dda819f4ad592241f1decd8350c39bb694b421ca216f436c0b3d05d"
+      },
+      "257869f182283a3b178c21d672bc443d691031b923509f2193d2b9a68cfd4231": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/ios/production/e22b22f31045-diff-from-257869f18228.zip",
+        "size": 3179900,
+        "hash": "a10e63f07dda819f4ad592241f1decd8350c39bb694b421ca216f436c0b3d05d"
+      }
+    }
+  }
+}
