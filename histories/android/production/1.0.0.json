@@ -837,6 +837,10 @@
         "hash": "88df03f1273c6218476600785615d5aaccf50a6470730db1ac998b7d25cb1059",
         "algorithm": "hdiffpatch-v1"
       }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "56QXOoLaMSSqfz9WNGra7sq05hoQhTWhWubkIor6lbvHbwIn7V87toT4bDhBBWf0e+OqJwmUJESXesXftXdXBw=="
     }
   }
 }
