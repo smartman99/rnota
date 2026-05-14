@@ -1,1 +1,72 @@
-{"1.0.0":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0","packageHash":"9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0","rollout":100,"signature":{"alg":"Ed25519","value":"rXoRV9eoVvBmmRbpThE7gudCTf7hm5T53O5eRaPfdi2bKskXpnRXihiE6KSUeLIcOV/PiCg/nff5ftTxyyzgAQ=="}},"1.0.1":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/0367d359a7f4e11c6295757ca2b5bbf87788183993f62daecb19dee865717fa4","packageHash":"0367d359a7f4e11c6295757ca2b5bbf87788183993f62daecb19dee865717fa4","rollout":100,"diffPackageMap":{"9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/0367d359a7f4-diff-from-9392e5eaff6e.zip","size":3238803,"hash":"1930e928032befef7b752ca07ae65d75d3e95903ec34c3107b54db29aae5afd0"}},"bsdiffPackageMap":{"9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/0367d359a7f4-bsdiff-from-9392e5eaff6e.zip","size":240747,"hash":"94c8ee0a39f3bd40c0976e87ab2c73ba579fdecf0a8c400c98ba72cbbf418270","algorithm":"hdiffpatch-v1"}},"signature":{"alg":"Ed25519","value":"z0c2QaOsDxmIxvxbfQr6D+66XqVR1nzRQdFyaJyQ9Og1DofRHkY2ZfS2stgQkXdlIV0s8sYwOPTYM56T+JXaCw=="}},"1.0.2":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/aca95b64c841a0a7dcccd336a02d327700a626b9c5e091a0590acfeedaea379e","packageHash":"aca95b64c841a0a7dcccd336a02d327700a626b9c5e091a0590acfeedaea379e","rollout":100}}
+{
+  "1.0.0": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0",
+    "packageHash": "9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "rXoRV9eoVvBmmRbpThE7gudCTf7hm5T53O5eRaPfdi2bKskXpnRXihiE6KSUeLIcOV/PiCg/nff5ftTxyyzgAQ=="
+    }
+  },
+  "1.0.1": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/0367d359a7f4e11c6295757ca2b5bbf87788183993f62daecb19dee865717fa4",
+    "packageHash": "0367d359a7f4e11c6295757ca2b5bbf87788183993f62daecb19dee865717fa4",
+    "rollout": 100,
+    "diffPackageMap": {
+      "9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/0367d359a7f4-diff-from-9392e5eaff6e.zip",
+        "size": 3238803,
+        "hash": "1930e928032befef7b752ca07ae65d75d3e95903ec34c3107b54db29aae5afd0"
+      }
+    },
+    "bsdiffPackageMap": {
+      "9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/0367d359a7f4-bsdiff-from-9392e5eaff6e.zip",
+        "size": 240747,
+        "hash": "94c8ee0a39f3bd40c0976e87ab2c73ba579fdecf0a8c400c98ba72cbbf418270",
+        "algorithm": "hdiffpatch-v1"
+      }
+    },
+    "signature": {
+      "alg": "Ed25519",
+      "value": "z0c2QaOsDxmIxvxbfQr6D+66XqVR1nzRQdFyaJyQ9Og1DofRHkY2ZfS2stgQkXdlIV0s8sYwOPTYM56T+JXaCw=="
+    }
+  },
+  "1.0.2": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/aca95b64c841a0a7dcccd336a02d327700a626b9c5e091a0590acfeedaea379e",
+    "packageHash": "aca95b64c841a0a7dcccd336a02d327700a626b9c5e091a0590acfeedaea379e",
+    "rollout": 100,
+    "diffPackageMap": {
+      "0367d359a7f4e11c6295757ca2b5bbf87788183993f62daecb19dee865717fa4": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/aca95b64c841-diff-from-0367d359a7f4.zip",
+        "size": 3238667,
+        "hash": "9bb294497fe96fc634c9505f058cded97b254c8c6a0e6c6877ede001acac3479"
+      },
+      "9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/aca95b64c841-diff-from-9392e5eaff6e.zip",
+        "size": 3238667,
+        "hash": "9bb294497fe96fc634c9505f058cded97b254c8c6a0e6c6877ede001acac3479"
+      }
+    },
+    "bsdiffPackageMap": {
+      "0367d359a7f4e11c6295757ca2b5bbf87788183993f62daecb19dee865717fa4": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/aca95b64c841-bsdiff-from-0367d359a7f4.zip",
+        "size": 369456,
+        "hash": "1e81268b08aae040616aab642114b83519254e1507a47ef443e3649b60ff2e25",
+        "algorithm": "hdiffpatch-v1"
+      },
+      "9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/aca95b64c841-bsdiff-from-9392e5eaff6e.zip",
+        "size": 364456,
+        "hash": "a1dff9bb93de98ed9d52589f7a9d3b35d6e5f7b4a3abd26fe2a84ab6abc6219c",
+        "algorithm": "hdiffpatch-v1"
+      }
+    }
+  }
+}
