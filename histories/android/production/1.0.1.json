@@ -1,1 +1,13 @@
-{"1.0.0":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0","packageHash":"9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0","rollout":100}}
+{
+  "1.0.0": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0",
+    "packageHash": "9392e5eaff6e563fcee53c6a2bb8b06011398a0d367ba40bcc93a99145b041c0",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "rXoRV9eoVvBmmRbpThE7gudCTf7hm5T53O5eRaPfdi2bKskXpnRXihiE6KSUeLIcOV/PiCg/nff5ftTxyyzgAQ=="
+    }
+  }
+}
