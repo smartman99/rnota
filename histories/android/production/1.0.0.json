@@ -1,13 +1,1 @@
-{
-  "1.0.0.1": {
-    "enabled": true,
-    "mandatory": false,
-    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b",
-    "packageHash": "86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b",
-    "rollout": 100,
-    "signature": {
-      "alg": "Ed25519",
-      "value": "bH/4m0yfTfJgorXgwRyO31Ww4FMmgacF+vR5PWsiaDs4RpWZlPQBImxHc7KKQpUConNAedtgtlUlkmFMsb1jDg=="
-    }
-  }
-}
+{"1.0.0.1":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b","packageHash":"86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b","rollout":100,"signature":{"alg":"Ed25519","value":"bH/4m0yfTfJgorXgwRyO31Ww4FMmgacF+vR5PWsiaDs4RpWZlPQBImxHc7KKQpUConNAedtgtlUlkmFMsb1jDg=="}},"1.0.0.2":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147dcbddd3e1175e941c9c84a1535dae3b47f520ffab0c1c645384df","packageHash":"a7c9013a147dcbddd3e1175e941c9c84a1535dae3b47f520ffab0c1c645384df","rollout":100}}
