@@ -45,6 +45,32 @@
     "signature": {
       "alg": "Ed25519",
       "value": "/8+JW69RNmUrP6Un6wn+A/895YX0WYunO6lZ5+vs6Oxak1D82DpjYYLXeanSBOkAHi1U5ync0E1ofZ1rMNxQBg=="
+    },
+    "diffPackageMap": {
+      "a7c9013a147dcbddd3e1175e941c9c84a1535dae3b47f520ffab0c1c645384df": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/3dd7010863d0-diff-from-a7c9013a147d.zip",
+        "size": 3228036,
+        "hash": "b1949c912b7b7bf52ff56a2ffd4e5cd0340413313f9a88da32f0e87e0f62067d"
+      },
+      "86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/3dd7010863d0-diff-from-86f0e2988921.zip",
+        "size": 3228036,
+        "hash": "b1949c912b7b7bf52ff56a2ffd4e5cd0340413313f9a88da32f0e87e0f62067d"
+      }
+    },
+    "bsdiffPackageMap": {
+      "a7c9013a147dcbddd3e1175e941c9c84a1535dae3b47f520ffab0c1c645384df": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/3dd7010863d0-bsdiff-from-a7c9013a147d.zip",
+        "size": 430433,
+        "hash": "a84d3102f5351006df550934d1c2d0069f584255a572a00054d7a18dbbe4270f",
+        "algorithm": "hdiffpatch-v1"
+      },
+      "86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/3dd7010863d0-bsdiff-from-86f0e2988921.zip",
+        "size": 473266,
+        "hash": "fcbfd6073abc5c0c8865db06b3e0cfb70424d717576d8bc179ceabac083f3d3c",
+        "algorithm": "hdiffpatch-v1"
+      }
     }
   }
 }
