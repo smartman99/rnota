@@ -19,6 +19,21 @@
     "signature": {
       "alg": "Ed25519",
       "value": "lvCjuScXEcOgijNt5l1jfBd/paSRsYfCbT/eWGV45gytpcW1+em+gCq7AIV3PYXZLs8agl/CZ0rRPqPfSeAnCA=="
+    },
+    "diffPackageMap": {
+      "86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147d-diff-from-86f0e2988921.zip",
+        "size": 3228734,
+        "hash": "8884b59e20ce60f5b5dc2165ff4efb692c69c0f678a337071b3230f6838e51ce"
+      }
+    },
+    "bsdiffPackageMap": {
+      "86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147d-bsdiff-from-86f0e2988921.zip",
+        "size": 453830,
+        "hash": "2937a5fe4dd9ab903f1ca012524a2718d9bcde61ea87ec2d92a09da055c865c6",
+        "algorithm": "hdiffpatch-v1"
+      }
     }
   }
 }
