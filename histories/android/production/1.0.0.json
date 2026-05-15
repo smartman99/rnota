@@ -1,1 +1,50 @@
-{"1.0.0.1":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b","packageHash":"86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b","rollout":100,"signature":{"alg":"Ed25519","value":"bH/4m0yfTfJgorXgwRyO31Ww4FMmgacF+vR5PWsiaDs4RpWZlPQBImxHc7KKQpUConNAedtgtlUlkmFMsb1jDg=="}},"1.0.0.2":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147dcbddd3e1175e941c9c84a1535dae3b47f520ffab0c1c645384df","packageHash":"a7c9013a147dcbddd3e1175e941c9c84a1535dae3b47f520ffab0c1c645384df","rollout":100,"signature":{"alg":"Ed25519","value":"lvCjuScXEcOgijNt5l1jfBd/paSRsYfCbT/eWGV45gytpcW1+em+gCq7AIV3PYXZLs8agl/CZ0rRPqPfSeAnCA=="},"diffPackageMap":{"86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147d-diff-from-86f0e2988921.zip","size":3228734,"hash":"8884b59e20ce60f5b5dc2165ff4efb692c69c0f678a337071b3230f6838e51ce"}},"bsdiffPackageMap":{"86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b":{"url":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147d-bsdiff-from-86f0e2988921.zip","size":453830,"hash":"2937a5fe4dd9ab903f1ca012524a2718d9bcde61ea87ec2d92a09da055c865c6","algorithm":"hdiffpatch-v1"}}},"1.0.0.3":{"enabled":true,"mandatory":false,"downloadUrl":"https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/3dd7010863d00cfa1eaf75e4b7c5cfe94ffb444399ed3c8f28bdddd5c1600b57","packageHash":"3dd7010863d00cfa1eaf75e4b7c5cfe94ffb444399ed3c8f28bdddd5c1600b57","rollout":100}}
+{
+  "1.0.0.1": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b",
+    "packageHash": "86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "bH/4m0yfTfJgorXgwRyO31Ww4FMmgacF+vR5PWsiaDs4RpWZlPQBImxHc7KKQpUConNAedtgtlUlkmFMsb1jDg=="
+    }
+  },
+  "1.0.0.2": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147dcbddd3e1175e941c9c84a1535dae3b47f520ffab0c1c645384df",
+    "packageHash": "a7c9013a147dcbddd3e1175e941c9c84a1535dae3b47f520ffab0c1c645384df",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "lvCjuScXEcOgijNt5l1jfBd/paSRsYfCbT/eWGV45gytpcW1+em+gCq7AIV3PYXZLs8agl/CZ0rRPqPfSeAnCA=="
+    },
+    "diffPackageMap": {
+      "86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147d-diff-from-86f0e2988921.zip",
+        "size": 3228734,
+        "hash": "8884b59e20ce60f5b5dc2165ff4efb692c69c0f678a337071b3230f6838e51ce"
+      }
+    },
+    "bsdiffPackageMap": {
+      "86f0e29889219894e1e4e84310aa2eb5ef21914fd531ff9cd834e8e128e3155b": {
+        "url": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/a7c9013a147d-bsdiff-from-86f0e2988921.zip",
+        "size": 453830,
+        "hash": "2937a5fe4dd9ab903f1ca012524a2718d9bcde61ea87ec2d92a09da055c865c6",
+        "algorithm": "hdiffpatch-v1"
+      }
+    }
+  },
+  "1.0.0.3": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://raw.githubusercontent.com/smartman99/rnota/main/bundles/android/production/3dd7010863d00cfa1eaf75e4b7c5cfe94ffb444399ed3c8f28bdddd5c1600b57",
+    "packageHash": "3dd7010863d00cfa1eaf75e4b7c5cfe94ffb444399ed3c8f28bdddd5c1600b57",
+    "rollout": 100,
+    "signature": {
+      "alg": "Ed25519",
+      "value": "/8+JW69RNmUrP6Un6wn+A/895YX0WYunO6lZ5+vs6Oxak1D82DpjYYLXeanSBOkAHi1U5ync0E1ofZ1rMNxQBg=="
+    }
+  }
+}
